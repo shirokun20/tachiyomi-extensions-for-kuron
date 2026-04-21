@@ -17,6 +17,40 @@ This repository automatically merges any updates from [Keiyoushi](https://github
 
 Some extensions from this repo provide better support for Komikku's `Suggestions` feature.
 
+## Project Status (Analysis / R&D)
+
+This repository is currently being analyzed as part of the Research & Development (R&D) phase for Kuron app requirements.
+
+- Current purpose: provide extension repository information and experimentation references.
+- Future direction: align and adapt this work for the [nhasixapp (Kuron)](https://github.com/shirokun20/nhasixapp) project.
+- Note: details may evolve while R&D is ongoing.
+
+## Kuron Support Reference (from nhasixapp)
+
+### FAQ
+
+- **Can't Install?** Enable "Unknown Sources" and check your architecture (ARM64 vs ARM32).
+- **Missing Images?** Check your internet connection or clear the app cache.
+- **Hidden Downloads?** Downloads are private by design and can be viewed from inside the app.
+
+## Versi Bahasa Indonesia
+
+### Status Proyek (Analisis / R&D)
+
+Repositori ini saat ini berada dalam tahap analisis sebagai bagian dari kebutuhan Research & Development (R&D) untuk aplikasi Kuron.
+
+- Tujuan saat ini: menyediakan informasi repositori extension dan referensi eksperimen.
+- Arah berikutnya: menyesuaikan pengembangan ini untuk proyek [nhasixapp (Kuron)](https://github.com/shirokun20/nhasixapp).
+- Catatan: detail dapat berubah selama proses analisis dan R&D berjalan.
+
+### Referensi Dukungan Kuron (diambil dari nhasixapp)
+
+#### FAQ
+
+- **Tidak bisa install?** Aktifkan "Unknown Sources" lalu pastikan arsitektur perangkat sesuai (ARM64 vs ARM32).
+- **Gambar tidak muncul?** Periksa koneksi internet atau bersihkan cache aplikasi.
+- **Unduhan tidak terlihat di galeri?** Unduhan disimpan secara privat secara desain dan dapat dilihat dari dalam aplikasi.
+
 ## Recommend App
 
 ### [Komikku](https://github.com/komikku-app/komikku)
