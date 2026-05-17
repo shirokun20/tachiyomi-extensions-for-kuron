@@ -13,3 +13,4 @@ generated-src/
 .kotlin
 *.jks
 output-json-config/
+.logs/
